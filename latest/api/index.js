@@ -1,0 +1,1 @@
+Index.PACKAGES = {"scala.com.indix.utils.product" : [{"object" : "scala\/com\/indix\/utils\/product\/UrlUtils$.html", "name" : "scala.com.indix.utils.product.UrlUtils"}], "scala.com.indix" : [], "scala.com.indix.utils" : [], "scala" : [], "scala.com" : []};
