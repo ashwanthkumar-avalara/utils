@@ -1,1 +1,1 @@
-Index.PACKAGES = {"scala.com.indix.utils.product" : [{"object" : "scala\/com\/indix\/utils\/product\/UrlUtils$.html", "name" : "scala.com.indix.utils.product.UrlUtils"}], "scala.com.indix" : [], "scala.com.indix.utils" : [], "scala" : [], "scala.com" : []};
+Index.PACKAGES = {"com" : [], "com.indix" : [], "com.indix.utils" : [], "com.indix.utils.core" : [{"object" : "com\/indix\/utils\/core\/UrlUtils$.html", "name" : "com.indix.utils.core.UrlUtils"}]};
